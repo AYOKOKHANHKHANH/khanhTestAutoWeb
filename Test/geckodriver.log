@@ -1,0 +1,357 @@
+1654159714554	geckodriver	INFO	Listening on 127.0.0.1:61997
+1654159717659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileHGRDJk"
+*** You are running in headless mode.
+1654159919586	geckodriver	INFO	Listening on 127.0.0.1:58915
+1654160010767	geckodriver	INFO	Listening on 127.0.0.1:57652
+1654160083339	geckodriver	INFO	Listening on 127.0.0.1:49676
+1654160524914	geckodriver	INFO	Listening on 127.0.0.1:64609
+1654160556007	geckodriver	INFO	Listening on 127.0.0.1:60147
+1654161147218	geckodriver	INFO	Listening on 127.0.0.1:60227
+1654161796049	geckodriver	INFO	Listening on 127.0.0.1:57574
+1654161799092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileDfECgB"
+*** You are running in headless mode.
+1654161799630	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileDfECgB\\search.json.mozlz4", (void 0)))
+1654161801453	Marionette	INFO	Listening on port 57599
+Read port: 57599
+1654161801607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:57657
+1654161863272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofilebLvNgx"
+*** You are running in headless mode.
+1654161863688	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofilebLvNgx\\search.json.mozlz4", (void 0)))
+1654161865418	Marionette	INFO	Listening on port 57685
+Read port: 57685
+1654161865547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654161883424	geckodriver	INFO	Listening on 127.0.0.1:57844
+1654161886451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofilexVkJXg"
+*** You are running in headless mode.
+1654161886930	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofilexVkJXg\\search.json.mozlz4", (void 0)))
+1654161888726	Marionette	INFO	Listening on port 57871
+Read port: 57871
+1654161888825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Exiting due to channel error.
+Listening on 127.0.0.1:52459
+1654161956752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofile7PFRvX"
+*** You are running in headless mode.
+1654161957171	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofile7PFRvX\\search.json.mozlz4", (void 0)))
+1654161958683	Marionette	INFO	Listening on port 52486
+Read port: 52486
+1654161958871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654162021779	geckodriver	INFO	Listening on 127.0.0.1:59872
+1654162039112	geckodriver	INFO	Listening on 127.0.0.1:59894
+1654162042182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileJ88FoV"
+*** You are running in headless mode.
+1654162042674	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileJ88FoV\\search.json.mozlz4", (void 0)))
+1654162044608	Marionette	INFO	Listening on port 63111
+Read port: 63111
+1654162044669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:63192
+1654162073065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileWYCgbb"
+*** You are running in headless mode.
+1654162073528	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileWYCgbb\\search.json.mozlz4", (void 0)))
+1654162075349	Marionette	INFO	Listening on port 63218
+Read port: 63218
+1654162075460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654162267300	geckodriver	INFO	Listening on 127.0.0.1:51110
+1654162270303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileOSAuNe"
+1654162271094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileOSAuNe\\search.json.mozlz4", (void 0)))
+1654162277380	Marionette	INFO	Listening on port 51149
+Read port: 51149
+1654162277487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654162601495	Marionette	INFO	Stopped listening on port 51149
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+rn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileUeHcyl\\search.json.mozlz4", (void 0)))
+1654162508613	Marionette	INFO	Listening on port 60039
+Read port: 60039
+1654162508721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654162601257	Marionette	INFO	Stopped listening on port 60039
+1654162698935	geckodriver	INFO	Listening on 127.0.0.1:53630
+1654162701963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofile2sHVMH"
+1654162702605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofile2sHVMH\\search.json.mozlz4", (void 0)))
+1654162707905	Marionette	INFO	Listening on port 53663
+Read port: 53663
+1654162708028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654163175230	Marionette	INFO	Stopped listening on port 53663
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofile2sHVMH\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofilehZhYkQ\\search.json.mozlz4", (void 0)))
+1654162855404	Marionette	INFO	Listening on port 62676
+Read port: 62676
+1654162855544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654163177194	Marionette	INFO	Stopped listening on port 62676
+[Parent 17052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofilehZhYkQ\protections.sqlite
+on.mozlz4", (void 0)))
+1654162975586	Marionette	INFO	Listening on port 52791
+Read port: 52791
+1654162975793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163174688	Marionette	INFO	Stopped listening on port 52791
+[Parent 12312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofilevL1hK1\protections.sqlite
+son.mozlz4", (void 0)))
+1654163036042	Marionette	INFO	Listening on port 52071
+Read port: 52071
+1654163036138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163174905	Marionette	INFO	Stopped listening on port 52071
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofileoezoB7\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileXujsXC\\search.json.mozlz4", (void 0)))
+1654163103274	Marionette	INFO	Listening on port 52184
+Read port: 52184
+1654163103702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163174058	Marionette	INFO	Stopped listening on port 52184
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofileXujsXC\protections.sqlite
+1654163178941	geckodriver	INFO	Listening on 127.0.0.1:61530
+1654163181952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileSyWtnZ"
+1654163182703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileSyWtnZ\\search.json.mozlz4", (void 0)))
+1654163187901	Marionette	INFO	Listening on port 61568
+Read port: 61568
+1654163188042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654163656381	Marionette	INFO	Stopped listening on port 61568
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofileSyWtnZ\protections.sqlite
+NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofile3j6Z9p\\search.json.mozlz4", (void 0)))
+1654163277621	Marionette	INFO	Listening on port 52456
+Read port: 52456
+1654163277787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163654641	Marionette	INFO	Stopped listening on port 52456
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofile3j6Z9p\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileKe4gb9\\search.json.mozlz4", (void 0)))
+1654163349891	Marionette	INFO	Listening on port 51501
+Read port: 51501
+1654163350809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163654557	Marionette	INFO	Stopped listening on port 51501
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tuyet Trinh PC\AppData\Local\Temp\rust_mozprofileKe4gb9\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileMTMOFp\\search.json.mozlz4", (void 0)))
+1654163508848	Marionette	INFO	Listening on port 60334
+Read port: 60334
+1654163509188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163655595	Marionette	INFO	Stopped listening on port 60334
+[Parent 15248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofile7NVNp7"
+1654163615522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofile7NVNp7\\search.json.mozlz4", (void 0)))
+1654163624876	Marionette	INFO	Listening on port 58960
+Read port: 58960
+1654163625294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654163653781	Marionette	INFO	Stopped listening on port 58960
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654163699795	geckodriver	INFO	Listening on 127.0.0.1:59062
+1654163702831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileBTLe01"
+1654163703444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileBTLe01\\search.json.mozlz4", (void 0)))
+1654163708288	Marionette	INFO	Listening on port 59095
+Read port: 59095
+1654163708411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654164235049	Marionette	INFO	Stopped listening on port 59095
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654220696593	geckodriver	INFO	Listening on 127.0.0.1:54772
+1654220699706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileqaMFi2"
+1654220700507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileqaMFi2\\search.json.mozlz4", (void 0)))
+1654220703274	Marionette	INFO	Listening on port 54789
+Read port: 54789
+1654220703432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654238434786	Marionette	INFO	Stopped listening on port 54789
+4220841889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileX6NAky"
+1654220842266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileX6NAky\\search.json.mozlz4", (void 0)))
+1654220844518	Marionette	INFO	Listening on port 49698
+Read port: 49698
+1654220844583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654238435780	Marionette	INFO	Stopped listening on port 49698
+[Parent 27500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654243050111	geckodriver	INFO	Listening on 127.0.0.1:55101
+1654243053172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofilerGM1nG"
+1654243053956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofilerGM1nG\\search.json.mozlz4", (void 0)))
+1654243056759	Marionette	INFO	Listening on port 55124
+Read port: 55124
+1654243056899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+1654243060682	Marionette	INFO	Stopped listening on port 55124
+1654243093545	geckodriver	INFO	Listening on 127.0.0.1:55184
+1654243096648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofilet2ZBDF"
+1654243097150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofilet2ZBDF\\search.json.mozlz4", (void 0)))
+1654243099204	Marionette	INFO	Listening on port 55210
+Read port: 55210
+1654243099254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+1654243102194	Marionette	INFO	Stopped listening on port 55210
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654243259005	geckodriver	INFO	Listening on 127.0.0.1:52832
+1654243262069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofile2gWAiQ"
+1654243262529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofile2gWAiQ\\search.json.mozlz4", (void 0)))
+1654243264910	Marionette	INFO	Listening on port 52857
+Read port: 52857
+1654243264986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+1654243268248	Marionette	INFO	Stopped listening on port 52857
+1654243486288	geckodriver	INFO	Listening on 127.0.0.1:50086
+1654243489342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileiYIdGS"
+1654243490072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileiYIdGS\\search.json.mozlz4", (void 0)))
+1654243492867	Marionette	INFO	Listening on port 50110
+Read port: 50110
+1654243492943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://s-sso.hahalolo.com"
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+1654243498138	Marionette	INFO	Stopped listening on port 50110
+[Parent 6968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654243598643	geckodriver	INFO	Listening on 127.0.0.1:55626
+1654243601711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUYETT~1\\AppData\\Local\\Temp\\rust_mozprofileP8QefZ"
+1654243602192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tuyet Trinh PC\\AppData\\Local\\Temp\\rust_mozprofileP8QefZ\\search.json.mozlz4", (void 0)))
+1654243604285	Marionette	INFO	Listening on port 55651
+Read port: 55651
+1654243604399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://s-sso.hahalolo.com/npm.material-ui.3faab10988f2acc70ac6.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://s-sso.hahalolo.com"
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sb.halome.dev/_next/static/chunks/commons.700dc1f7b90e955a.js, line 1: WebGL context was lost.
+1654243608946	Marionette	INFO	Stopped listening on port 55651
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
